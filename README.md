@@ -40,7 +40,7 @@ The portfolio features a warm, professional color palette:
 
 ## 🔗 Live Links
 
-- **Portfolio**: [Your deployed URL]
+- **Portfolio**: [[Your deployed URL]](https://portfolio-eight-xi-gl32idop8j.vercel.app/)
 - **Resume**: [Google Drive Link](https://drive.google.com/file/d/1Ds0FH9mBvIrzT-IlDYjzeZzgPN6xDZWk/view?usp=sharing)
 - **LinkedIn**: [Profile](https://www.linkedin.com/in/sudhir-rathod-8b3715250/)
 - **GitHub**: [Profile](https://github.com/sudhirrathod03)
