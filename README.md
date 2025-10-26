@@ -36,7 +36,7 @@ The portfolio features a warm, professional color palette:
 - HTML5
 - CSS3 (Custom animations, Grid, Flexbox)
 - Vanilla JavaScript
-- No frameworks or dependencies
+
 
 ## 🔗 Live Links
 
@@ -51,7 +51,7 @@ The portfolio features a warm, professional color palette:
 - **Teaching Assistant** at Apna College - Mentored 1200+ students in MERN Stack
 - **First Prize** - VCET National Project Showcase (YumNest IoT Project)
 - **Top 2% Global** - TCS CodeVita Season 12 (Rank 7,698/444,000+)
-- **15+ Projects** - Full-stack web applications using MERN stack
+
 
 ## 🛠️ Setup & Usage
 
@@ -74,11 +74,7 @@ git clone https://github.com/sudhirrathod03/portfolio.git
 - **Phone**: +91 7666691353
 - **Location**: Virar, Maharashtra, India
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Design inspiration from Remotive.com
 - Icons and emojis for visual elements
